@@ -1,0 +1,19 @@
+{
+  "name": "node-sandbox",
+  "version": "1.0.0",
+  "description": "Learning node",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/junosw/node-sandbox.git"
+  },
+  "author": "Joe Teibel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junosw/node-sandbox/issues"
+  },
+  "homepage": "https://github.com/junosw/node-sandbox#readme"
+}
